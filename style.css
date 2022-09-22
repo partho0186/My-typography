@@ -1,0 +1,48 @@
+body {
+    font-family: 'Dangrek', cursive;
+}
+
+h1 {
+    font-size: 54px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.clr {
+    color: tomato;
+}
+
+p {
+    font-size: 22px;
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half img {
+    width: 98%;
+    padding-top: 8%;
+}
+
+.half p {
+    text-align: justify;
+}
+
+.link {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 37px;
+    border-radius: 9px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600px;
+
+}
