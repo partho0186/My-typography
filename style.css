@@ -48,6 +48,17 @@ section {
     font-weight: 600px;
 }
 
+.so {
+    text-decoration: none;
+    background-color: darkorchid;
+    padding: 10px 37px;
+    border-radius: 9px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600px;
+}
+
+
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
@@ -59,4 +70,10 @@ section {
 
 #ami {
     color: darkorchid;
+}
+
+.Dream-Big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
